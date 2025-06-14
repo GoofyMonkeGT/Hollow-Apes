@@ -1,0 +1,56 @@
+Privacy Policy (for Hollow Apes)
+Effective Date: April 25, 2025
+Game Name: Hollow Apes
+Package Name: com.GoofyGames.Monker
+
+Introduction:
+I am an independent developer committed to protecting your privacy and providing a safe gameplay experience. This Privacy Policy explains what data is collected, how it is used, and how your data is protected while playing Hollow Apes.
+
+What I Collect:
+Hollow Apes uses third-party services to enable gameplay features:
+
+Photon VR (for multiplayer):
+Photon may collect:
+
+IP address
+
+Region
+
+Session data
+
+Device information (model, OS version, platform)
+
+PlayFab (by Microsoft, for player data):
+PlayFab may collect:
+
+Unique player ID
+
+Gameplay activity (inventory, progress, stats)
+
+Device identifiers (platform ID, region)
+
+The data collected is used only to provide multiplayer features, save your game progress, and improve the game experience.
+
+What I Do NOT Collect:
+
+I do not collect your real name, email address, home address, or personal contact information.
+
+I do not access your voice, microphone, camera, or exact location.
+
+I do not serve ads or use advertising or tracking services.
+
+Data Retention and Deletion:
+Game data is stored as long as your account remains active. You can request deletion of your game data at any time by contacting me.
+
+Children's Privacy:
+Hollow Apes is not intended for children under 13 years of age. I do not knowingly collect personal data from children under this age without appropriate consent.
+
+Third-Party Policies:
+For more information on how these third-party services handle your data, you can review their privacy policies:
+
+Photon: https://www.photonengine.com/en-US/PrivacyPolicy
+
+PlayFab (Microsoft): https://privacy.microsoft.com/en-us/privacystatement
+
+Contact:
+If you have any questions or wish to request data deletion, please contact me at: hollowapes8@gmail.com
